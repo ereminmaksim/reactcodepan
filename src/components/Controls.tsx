@@ -2,7 +2,7 @@ import React from 'react';
 /********************************************/
 
 interface handleSubmit {
-    addTaskHandler: (value: any) => void
+    addTaskHandler: () => void
     handleSubmit: () => void
 }
 
